@@ -41,8 +41,8 @@ Using advanced language models from [Groq Cloud](https://console.groq.com/), thi
 ### 📁 Clone this repository
 
 ```bash
-git clone https://github.com/your-username/storychat.git
-cd storychat
+git clone https://github.com/Zakeertech3/AI_Story_Maker.git
+cd AI_Story_Maker
 ```
 
 ### 🧱 Install dependencies
@@ -109,7 +109,6 @@ You can modify:
 │   └── story_generator.py  # Story generation logic using Groq
 │
 ├── stories/                # Folder where stories are saved as JSON
-└── assets/                 # (Optional) Store output images for README
 ```
 
 ---
@@ -137,4 +136,4 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 📬 Contact
 
-Feel free to connect via [LinkedIn](https://linkedin.com/in/your-profile) or open an issue for any queries or feedback.
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/mohammed-zakeer/) or open an issue for any queries or feedback.
