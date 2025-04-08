@@ -5,6 +5,8 @@ Using advanced language models from [Groq Cloud](https://console.groq.com/), thi
 
 ![StoryChat Banner](https://github.com/user-attachments/assets/81fabc90-30d3-4966-bbb5-884acb23072a) <!-- Replace with your actual image path -->
 
+
+🔗 Live Demo: https://storymakerai.streamlit.app/
 ---
 
 ## ✨ Features
