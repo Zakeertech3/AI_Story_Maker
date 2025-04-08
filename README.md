@@ -1,9 +1,9 @@
-# 📚 StoryChat – Your AI Storytelling Companion
+![image](https://github.com/user-attachments/assets/eedc47d5-da3f-43f8-bb0b-3bd2f038cf3f)# 📚 StoryChat – Your AI Storytelling Companion
 
 Welcome to **StoryChat**, an AI-powered web app that turns your ideas into captivating stories!  
 Using advanced language models from [Groq Cloud](https://console.groq.com/), this app helps you generate custom tales based on your genre, characters, setting, and theme.
 
-![StoryChat Banner](assets/storychat-banner.png) <!-- Replace with your actual image path -->
+![StoryChat Banner](https://github.com/user-attachments/assets/81fabc90-30d3-4966-bbb5-884acb23072a) <!-- Replace with your actual image path -->
 
 ---
 
